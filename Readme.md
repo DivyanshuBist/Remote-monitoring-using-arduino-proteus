@@ -4,8 +4,8 @@ Uses rf modules to communicate and ultrasonic sensors ,temperature sensors etc. 
 ## Screenshots
 
 ### Circuit Diagram
-![CircuitDiagram](screenshots\CircuitDiagram.png)
+![CircuitDiagram](screenshots/CircuitDiagram.png)
 
 
 ### Simulation
-![Simulation](screenshots\Simulation.png)
+![Simulation](screenshots/Simulation.png)
